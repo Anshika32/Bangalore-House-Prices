@@ -1,3 +1,5 @@
+![BHP_Website](https://github.com/Anshika32/Bangalore-House-Prices/assets/121334039/d3d17245-f72c-4eb9-8088-ae352b57dd4c)
+
 # Bangalore-House-Prices
 
 ## Overview
